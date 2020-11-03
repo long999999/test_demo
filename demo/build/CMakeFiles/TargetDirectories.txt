@@ -1,0 +1,4 @@
+/home/dev/workspace/c_workspace/opc_ua/c_opcua/freeopcua_sdk_hxq_demo/demo/build/CMakeFiles/edit_cache.dir
+/home/dev/workspace/c_workspace/opc_ua/c_opcua/freeopcua_sdk_hxq_demo/demo/build/CMakeFiles/rebuild_cache.dir
+/home/dev/workspace/c_workspace/opc_ua/c_opcua/freeopcua_sdk_hxq_demo/demo/build/CMakeFiles/server.dir
+/home/dev/workspace/c_workspace/opc_ua/c_opcua/freeopcua_sdk_hxq_demo/demo/build/CMakeFiles/opcua_server.dir
